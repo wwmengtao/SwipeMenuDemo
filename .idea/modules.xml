@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SwipeMenuDemo.iml" filepath="$PROJECT_DIR$/SwipeMenuDemo.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\SwipeMenuDemo.iml" filepath="E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\SwipeMenuDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\app\app.iml" filepath="E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/swipemenu/swipemenu.iml" filepath="$PROJECT_DIR$/swipemenu/swipemenu.iml" />
+      <module fileurl="file://E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\swipemenu\swipemenu.iml" filepath="E:\Workspace\GitHubProjects_MT\SwipeMenuDemo\swipemenu\swipemenu.iml" />
     </modules>
   </component>
 </project>
